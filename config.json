@@ -1,0 +1,21 @@
+{
+  "bind" : "127.0.0.1",
+  "port" : "8080",
+
+  "servers" : [
+    {
+      "id" : "database1",
+      "hostname" : "server1",
+      "ip" : "127.0.0.1",
+      "port" : "54321",
+      "username" : "teste"
+    },
+    {
+      "id" : "database2",
+      "hostname" : "server2",
+      "ip" : "127.0.0.1",
+      "port" : "54321",
+      "username" : "teste"
+    }
+  ]
+}
